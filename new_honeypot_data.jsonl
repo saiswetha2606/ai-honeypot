@@ -1,0 +1,3 @@
+{"timestamp": 1735506540, "type": "command_execution", "command": ["cat", "/etc/shadow"], "label": "malicious", "path": null}
+{"timestamp": 1735506600, "type": "file_access", "command": null, "label": "benign", "path": ["/var/log/syslog"]}
+{"timestamp": 1735506660, "type": "command_execution", "command": ["whoami"], "label": null, "path": null}

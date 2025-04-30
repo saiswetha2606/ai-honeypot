@@ -1,0 +1,3 @@
+{"timestamp": 1745995921.754517, "type": "command_execution", "command": ["ls", "pwd", "rm -rf /", "netstat -an"], "label": "malicious"}
+{"timestamp": 1745995921.7545981, "type": "file_access", "path": ["/tmp/test.txt", "/etc/passwd", "/var/log/auth.log"], "label": "benign"}
+{"timestamp": 1745995921.754636, "type": "command_execution", "command": ["ls", "pwd", "rm -rf /", "netstat -an"], "label": "malicious"}
